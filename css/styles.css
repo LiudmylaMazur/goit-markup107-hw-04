@@ -260,7 +260,19 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
+  margin: 8px;
 }
+
+.soc-list {
+  display: flex;
+  gap: 24px;
+}
+
+.soc-icon {
+  background-color: #4d5ae5;
+  border-radius: 50%;
+}
+
 /*-----Our Portfolio-----*/
 .title-second-portfolio {
   font-weight: 700;
